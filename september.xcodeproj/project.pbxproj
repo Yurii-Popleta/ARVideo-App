@@ -13,6 +13,7 @@
 		84EC89CA28DDD9CA00A4EC6E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 84EC89C828DDD9CA00A4EC6E /* Main.storyboard */; };
 		84EC89CC28DDD9CC00A4EC6E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 84EC89CB28DDD9CC00A4EC6E /* Assets.xcassets */; };
 		84EC89CF28DDD9CC00A4EC6E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 84EC89CD28DDD9CC00A4EC6E /* LaunchScreen.storyboard */; };
+		84EC89D628DDDB0100A4EC6E /* september.MP4 in Resources */ = {isa = PBXBuildFile; fileRef = 84EC89D528DDDB0100A4EC6E /* september.MP4 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,6 +24,7 @@
 		84EC89C928DDD9CA00A4EC6E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		84EC89CB28DDD9CC00A4EC6E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		84EC89CE28DDD9CC00A4EC6E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		84EC89D528DDDB0100A4EC6E /* september.MP4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = september.MP4; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,9 +57,10 @@
 		84EC89C128DDD9CA00A4EC6E /* september */ = {
 			isa = PBXGroup;
 			children = (
+				84EC89D528DDDB0100A4EC6E /* september.MP4 */,
 				84EC89C228DDD9CA00A4EC6E /* AppDelegate.swift */,
-				84EC89C428DDD9CA00A4EC6E /* art.scnassets */,
 				84EC89C628DDD9CA00A4EC6E /* ViewController.swift */,
+				84EC89C428DDD9CA00A4EC6E /* art.scnassets */,
 				84EC89C828DDD9CA00A4EC6E /* Main.storyboard */,
 				84EC89CB28DDD9CC00A4EC6E /* Assets.xcassets */,
 				84EC89CD28DDD9CC00A4EC6E /* LaunchScreen.storyboard */,
@@ -127,6 +130,7 @@
 				84EC89CF28DDD9CC00A4EC6E /* LaunchScreen.storyboard in Resources */,
 				84EC89CC28DDD9CC00A4EC6E /* Assets.xcassets in Resources */,
 				84EC89CA28DDD9CA00A4EC6E /* Main.storyboard in Resources */,
+				84EC89D628DDDB0100A4EC6E /* september.MP4 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -300,7 +304,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = yurri.september;
+				PRODUCT_BUNDLE_IDENTIFIER = "yurri.AR-Ruler";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -330,7 +334,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = yurri.september;
+				PRODUCT_BUNDLE_IDENTIFIER = "yurri.AR-Ruler";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
