@@ -11,4 +11,8 @@ Creating app that can recognize photo which we asked and put on this place a vid
 * How to source the assets.
 * How to detecting images in AR.
 * Understand how to play video in AR in detecting places.
+
+## Documentation 
+
+https://developer.apple.com/documentation/spritekit/skvideonode?changes=_2
    
